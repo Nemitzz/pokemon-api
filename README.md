@@ -17,9 +17,9 @@ A super simple and fun API to find Pokémon.
 3. [Routes](#routes)
 
     - [**Pokémon**](#pokemon)
-    - [GET /find/:id](#get-get-pokemon-by-id)
-    - [POST /find/:id](#post-guess-the-pokemon)
-    - [POST /find](#post-pokemon-search)
+    - [GET /find/:id](#get-get-pokémon-by-id)
+    - [POST /find/:id](#post-guess-the-pokémon)
+    - [POST /find](#post-pokémon-search)
 
 3. [Extras](#extras)
 
@@ -61,7 +61,7 @@ Explanation of how the routes work.
 
 ---
 
-# GET: Get Pokemon By Id
+# GET: Get Pokémon By Id
 
 Returns the Pokémon corresponding to the ID placed in the URL above, after /find.
 
